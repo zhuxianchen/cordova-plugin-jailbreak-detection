@@ -44,3 +44,6 @@ iOS only.
 ## License
 
 [MIT License](http://ilee.mit-license.org)
+
+
+Ios cordova 越狱检测
